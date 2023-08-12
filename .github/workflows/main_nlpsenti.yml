@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'nlpsenti'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C3957DB8608C4BA5B0C2E9CBDEBD48FC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B820E8A6A88847B18647BC21A199F683 }}
